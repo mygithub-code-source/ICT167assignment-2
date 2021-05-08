@@ -15,7 +15,8 @@ import java.util.concurrent.TimeUnit;
  * data from the file book.txt and setting \& getting value for each field.
  *
  * @title Ospi Park (Library)
- * @author jamoo File Name: Book.java Date: May 07, 2021 Assumptions: All the
+ * @author Zain ul abideen (33921046)
+ * File Name: Book.java Date: May 07, 2021 Assumptions: All the
  * inputs are supposed to be in same format as shown to the user while
  * prompting.
  * File configurations are as follows:

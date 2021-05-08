@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * It deals with the books of type Drama.
  *
- * @author jamoo
+ * @author Zain ul abideen (33921046)
  */
 public class Drama extends Book {
 

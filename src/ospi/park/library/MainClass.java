@@ -11,7 +11,7 @@ import java.util.Scanner;
  * tasks. This is the main class of the application
  *
  * @title Ospi Park (Library)
- * @author jamoo
+ * @author Zain ul abideen (33921046)
  *
  * File Name: MainClass.java Date: May 07, 2021 Assumptions: All the inputs are
  * supposed to be in same format as shown to the user while prompting.
