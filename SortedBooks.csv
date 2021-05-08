@@ -1,0 +1,9 @@
+ID,ISBN,Title,Author First Name,Author Last Name,Pages,Type
+1, 9781593275846, Eloquent JavaScript Second Edition, Marijn, Haverbeke,  472,drama
+2, 9781449331818, Learning JavaScript Design Patterns, Addy, Osmani,  254,drama
+3, 9781449365035, Speaking JavaScript, Axel, Rauschmayer,  460,drama
+4, 9781491950296, Programming JavaScript Applications, Eric, Elliott,254,drama
+5, 9781593277574, Understanding ECMAScript 6, Nicholas, C. Zakas,  352,crime
+6, 9781491904244, You Don't Know JS, Kyle, Simpson,  278,crime
+7, 9781449325862, Git Pocket Guide, Richard, E. Silverman,  234,crime
+8, 9781449337711, Designing Evolvable Web APIs with ASP.NET, Glenn, Block,  538,drama

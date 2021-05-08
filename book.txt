@@ -1,0 +1,8 @@
+ 9781593275846,5, Eloquent JavaScript Second Edition, Marijn, Haverbeke,  472,27/04/2021,PERSON 1,drama
+ 9781449331818,4, Learning JavaScript Design Patterns, Addy, Osmani,  254,04/05/2021,PERSON 2,drama
+ 9781449365035,1, Speaking JavaScript, Axel, Rauschmayer,  460,07/05/2021,PERSON 3,drama
+ 9781491950296,3, Programming JavaScript Applications, Eric, Elliott,254,01/05/2021,PERSON 2,drama
+ 9781593277574,6, Understanding ECMAScript 6, Nicholas, C. Zakas,  352,07/05/2021,PERSON 4,crime
+ 9781491904244,2, You Don't Know JS, Kyle, Simpson,  278,07/05/2021,PERSON 2,crime
+ 9781449325862,8, Git Pocket Guide, Richard, E. Silverman,  234,07/05/2021,PERSON 2,crime
+ 9781449337711,7, Designing Evolvable Web APIs with ASP.NET, Glenn, Block,  538,07/05/2021,PERSON 2,drama
